@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to data.
 - 📫 How to reach me shanshan.consulting@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: an artistic and romantic person doing scientific and technical work forever. No idea why others think I'm good at it
+- ⚡ Fun fact: an artistic and romantic person doing scientific and technical work forever. Surprisingly, I'm good at it. 
 
 <!---
 shanshan-consulting/shanshan-consulting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
